@@ -2,7 +2,7 @@
 <h2>Projects<h2>
   <a href="https://ishesap.com/" target="_blank">ishesap.com</a>
   
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kuvarssoftteknoloji](https://github.com/kuvarssoftteknoloji/ishesap) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kuvarssoftteknoloji/ishesap) 
  
 <h2>Social Media</h2>
   
