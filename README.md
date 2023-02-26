@@ -1,6 +1,6 @@
-<img src="https://www.kuvarssoft.com/wp-content/uploads/2021/01/kuvarssoft_logo_white.png" />
+<img src="https://www.kuvarssoft.com/wp-content/uploads/2021/01/kuvarssoft_logo_white.png" alt="kuvarssoft logo"/>
 <h1>Projects<h1>
-  <a href="https://ishesap.com/">ishesap.com</a>
+  <a href="https://ishesap.com/" target="_blank">ishesap.com</a>
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kuvarssoftteknoloji) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](instagram.com/kuvarssoft/) 
