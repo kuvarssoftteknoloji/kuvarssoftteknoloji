@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="https://www.kuvarssoft.com/wp-content/uploads/2021/01/kuvarssoft_logo_white.png" alt="kuvarssoft logo"/></div>
+<p align="center"><img src="https://www.kuvarssoft.com/wp-content/uploads/2021/01/kuvarssoft_logo_white.png" alt="kuvarssoft logo"/></p>
 <h2>Projects<h2>
   <a href="https://ishesap.com/" target="_blank">ishesap.com</a>
   
